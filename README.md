@@ -41,11 +41,11 @@ Hospitality Smart Tablet is the guest-facing layer of the Hospitality Suite ecos
 
 It is designed to:
 
-- welcome the guest,
-- expose key property information,
-- enable in-room dining and bookings,
-- provide concierge access,
-- offer smart-room controls.
+- Welcome the guest,
+- Expose key property information,
+- Enable in-room dining and bookings,
+- Provide concierge access,
+- Offer smart-room controls.
 
 ## The Guest-Facing Difference
 
@@ -70,9 +70,9 @@ The interface reduces friction for guests while also reducing routine service lo
 
 It turns everyday in-room actions into:
 
-- a more premium digital experience,
-- faster service access,
-- better opportunities for upsell and service discovery.
+- A more premium digital experience,
+- Faster service access,
+- Better opportunities for upsell and service discovery.
 
 ## What It Signals Commercially
 

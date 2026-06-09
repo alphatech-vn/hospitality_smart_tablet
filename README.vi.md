@@ -39,11 +39,11 @@ Hospitality Smart Tablet là lớp trải nghiệm hướng khách của hệ si
 
 Nó được thiết kế để:
 
-- chào mừng khách,
-- hiển thị thông tin quan trọng của tài sản,
-- hỗ trợ gọi món và đặt dịch vụ,
-- mở đường cho concierge,
-- cung cấp lớp điều khiển phòng thông minh.
+- Chào mừng khách,
+- Hiển thị thông tin quan trọng của tài sản,
+- Hỗ trợ gọi món và đặt dịch vụ,
+- Mở đường cho concierge,
+- Cung cấp lớp điều khiển phòng thông minh.
 
 ## Các Surface Chính
 
@@ -61,9 +61,9 @@ Giao diện này giúp giảm ma sát cho khách đồng thời giảm tải cá
 
 Nó biến các tương tác trong phòng hằng ngày thành:
 
-- trải nghiệm số cao cấp hơn,
-- truy cập dịch vụ nhanh hơn,
-- cơ hội upsell và khám phá dịch vụ tốt hơn.
+- Trải nghiệm số cao cấp hơn,
+- Truy cập dịch vụ nhanh hơn,
+- Cơ hội upsell và khám phá dịch vụ tốt hơn.
 
 ## Xem Nhanh Giao Diện
 
