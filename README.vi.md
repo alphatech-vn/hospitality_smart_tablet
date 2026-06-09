@@ -47,12 +47,12 @@ Nó được thiết kế để:
 
 ## Các Surface Chính
 
-- Home và welcome
+- Màn hình chính và chào mừng
 - Thông tin thành viên
 - Thông tin khách sạn và highlights
-- Dining và ordering
-- Bookings và concierge
-- Room controls
+- Gọi món và đặt dịch vụ
+- Đặt chỗ và concierge
+- Điều khiển phòng
 - Checkout
 
 ## Vì Sao Nó Quan Trọng
@@ -75,8 +75,8 @@ Nó biến các tương tác trong phòng hằng ngày thành:
 
 ## Phạm Vi Sản Phẩm
 
-- Đây là app hướng khách, không phải CMS trung tâm cho nhân sự
-- Triển khai thật có thể phụ thuộc vào phần cứng tablet và setup tại phòng
+- Đây là ứng dụng hướng khách, không phải CMS trung tâm cho nhân sự
+- Triển khai thật có thể phụ thuộc vào phần cứng tablet và cấu hình tại phòng
 - Mức độ điều khiển đèn, điều hòa, TV hay rèm sẽ phụ thuộc vào cách tích hợp thực tế
 
 ## Tình Trạng Phát Hành
@@ -90,4 +90,4 @@ Nó biến các tương tác trong phòng hằng ngày thành:
 
 ## Lưu Ý Closed-Source
 
-Đây là sản phẩm closed-source và repo này chỉ tồn tại để chứa tài liệu public giới thiệu sản phẩm.
+Đây là sản phẩm closed-source và repo này chỉ tồn tại để chứa tài liệu công khai giới thiệu sản phẩm.
