@@ -91,3 +91,8 @@ Nó biến các tương tác trong phòng hằng ngày thành:
 ## Lưu Ý Closed-Source
 
 Đây là sản phẩm closed-source và repo này chỉ tồn tại để chứa tài liệu công khai giới thiệu sản phẩm.
+
+
+<p align="center">
+  <a href="https://github.com/alphatech-vn"><img src="https://img.shields.io/badge/Back%20to-AlphaTech%20Hub-1b1713?style=for-the-badge&logo=github&logoColor=white" alt="Back to AlphaTech Hub"></a>
+</p>
