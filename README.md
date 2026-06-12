@@ -1,6 +1,10 @@
 # Hospitality Smart Tablet
 
 <p align="center">
+  <a href="https://github.com/AlexT182"><img src="https://img.shields.io/badge/Back%20to-GitHub%20Hub-1b1713?style=for-the-badge&logo=github&logoColor=white" alt="Back to GitHub Hub"></a>
+</p>
+
+<p align="center">
   <a href="https://alphabotapphub.pages.dev/hospitalityapp_dashboard/"><img src="assets/screenshots/01-home.png" alt="Hospitality Smart Tablet" width="100%"></a>
 </p>
 
